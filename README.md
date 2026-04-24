@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Leandro
 
-<!--
-**leandroribeiro-dev/leandroribeiro-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudante de Análise e Desenvolvimento de Sistemas  
+🚀 Em transição para Desenvolvimento Web  
 
-Here are some ideas to get you started:
+## 🧠 Tecnologias
+- HTML, CSS, JavaScript
+- Python e Java
+- Git e Docker
+- LaTeX
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📘 Em estudo
+- Desenvolvimento Web
+- Versionamento com Git
+- Boas práticas de código
+
+## 🎯 Objetivo
+Construir uma base sólida em desenvolvimento e compartilhar minha evolução através de projetos e documentação.
