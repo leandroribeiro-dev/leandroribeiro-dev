@@ -15,4 +15,4 @@
 - Boas práticas de código
 
 ## 🎯 Objetivo
-Construir uma base sólida em desenvolvimento e compartilhar minha evolução através de projetos e documentação.
+Desenvolver habilidades práticas em programação e construir projetos reais, documentando minha evolução para atuar como desenvolvedor.
