@@ -5,8 +5,9 @@
 
 ## 🧠 Tecnologias
 - HTML, CSS, JavaScript
-- Python e Java
+- Python
 - Git e Docker
+- Java
 - LaTeX
 
 ## 📘 Em estudo
